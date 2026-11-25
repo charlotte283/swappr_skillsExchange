@@ -1,0 +1,42 @@
+[
+ {
+  "service": "shoot professional videos or photos from kenya",
+  "category": "Video & Animation",
+  "subcat": "Local Photography",
+  "rating": 4.7,
+  "reviews": 1.0,
+  "expected_eur": 66.1285231071356
+ },
+ {
+  "service": "develop a chatbot for various social apps and websites",
+  "category": "Programming & Tech",
+  "subcat": "Chatbots",
+  "rating": 5.0,
+  "reviews": 14.999999999999998,
+  "expected_eur": 56.86707493327494
+ },
+ {
+  "service": "make real estate cold calls for you",
+  "category": "Business",
+  "subcat": "Virtual Assistant",
+  "rating": 4.9,
+  "reviews": 99.00000000000004,
+  "expected_eur": 29.91883420807961
+ },
+ {
+  "service": "write or ghostwrite your fiction story",
+  "category": "Writing & Translation",
+  "subcat": "Book & eBook Writing",
+  "rating": 4.9,
+  "reviews": 129.99999999999994,
+  "expected_eur": 39.16159993171807
+ },
+ {
+  "service": "create 3d animated gif with my exclusive styles",
+  "category": "Video & Animation",
+  "subcat": "Animated GIFs",
+  "rating": 5.0,
+  "reviews": 11.0,
+  "expected_eur": 45.401600304984704
+ }
+]
